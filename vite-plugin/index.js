@@ -3,7 +3,6 @@ import VitePluginVue2Suffix from 'vite-plugin-vue2-suffix'; // 文件后缀处�
 import { createVuePlugin } from 'vite-plugin-vue2';
 import HtmlScriptPlugin from "./vite-plugin-html-script";
 import styleImport from "vite-plugin-style-import";
-import { viteMockServe } from 'vite-plugin-mock' // mock
 
 export function createVitePlugins() {
   return [
@@ -25,11 +24,6 @@ export function createVitePlugins() {
           resolveStyle: (name) => `vant/es/${name}/style`,
         },
       ],
-    }),
-    viteMockServe({
-      // default
-      mockPath: 'mock',
-      // localEnabled: command === 'serve',
     })
   ]
 }
