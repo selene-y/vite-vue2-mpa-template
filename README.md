@@ -1,6 +1,6 @@
 # Vite Vue2 MPA Template
 
-Vite Vue2 MPA Template is a MPA(Multi-page Application), using `vite2` and `Vue2`. More Introduction: https://selenes-blog.vercel.app/views/%E6%9E%84%E5%BB%BA%E5%B7%A5%E5%85%B7/Vite2+Vue2+mpa%E7%9A%84%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5.html
+Vite Vue2 MPA Template is a MPA(Multi-page Application), using `vite2` and `Vue2`. [More Introduction](https://selenes-blog.vercel.app/views/%E6%9E%84%E5%BB%BA%E5%B7%A5%E5%85%B7/Vite2+Vue2+mpa%E7%9A%84%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5.html)
 
 
 ## Plugins
